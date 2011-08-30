@@ -1,3 +1,19 @@
+That is a RTS game written completely in Common Lisp using OpenGL.
+It was developed by cupe at http://erleuchtet.org/ and then abandoned.
+
+I think it's kinda bad to drop such a cool project, so I, hijarian, am publishing
+it and will claim myself at main maintainer.
+
+
+I personally tried it at Debian Squeeze with SBCL and it compiles and runs well.
+It now differs substantially from old screenshots, sorry about that --- it will be
+first major milestone to rewrite texture generation.
+
+hijarian,
+30 August 2011
+
+Here are original README from author:
+---------------------------------------
 hi
 
 this is a snaphsot of my old svn. i have no idea if this even compiles.
@@ -27,6 +43,6 @@ if anyone wants to revive the project, i'd be excited. but at the time
 i can't contribute.
 
 
-
 perfectstorm was made by cupe (cupe@erleuchtet.org) and syb.
 it is hereby released under the creative commons attribution license.
+---------------------------------------
